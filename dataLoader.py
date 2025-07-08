@@ -1,7 +1,7 @@
 '''
 DataLoader for training
 This model is modified based on the following project:
-  1. https://github.com/TaoRuijie/ECAPA-TDNN
+  https://github.com/TaoRuijie/ECAPA-TDNN
 '''
 import glob, numpy, os, random, soundfile, torch
 from scipy import signal
