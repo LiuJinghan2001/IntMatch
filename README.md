@@ -1,5 +1,5 @@
 # Int*-Match: Balancing Intra-Class Compactness and Inter-Class Discrepancy for Semi-Supervised Speaker Recognition
-This repository contains the code for our paper: "Int*-Match: Balancing Intra-Class Compactness and Inter-Class Discrepancy for Semi-Supervised Speaker Recognition" (Accepted by AAAI 2025). We propose a novel method to control the variation of the inter-class confidence threshold, thereby improving the performance of speaker recognition.
+This repository contains the code for our paper: "Int*-Match: Balancing Intra-Class Compactness and Inter-Class Discrepancy for Semi-Supervised Speaker Recognition" (AAAI 2025). We propose a novel method to control the variation of the inter-class confidence threshold, thereby improving the performance of speaker recognition.
 
 # Dependencies
 ```
