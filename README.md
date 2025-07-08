@@ -11,7 +11,7 @@ pip install -r requirements.txt
 Please follow the instructions in the 'Data preparation' section of [this repository](https://github.com/TaoRuijie/ECAPA-TDNN) or the official resource [voxceleb_trainer](https://github.com/clovaai/voxceleb_trainer) to prepare your VoxCeleb2 dataset using the official code
 
 # Training
-Before training, you should change the data path and save path in the ```main.py```.
+Before training, please change the data path and save path in the ```main.py```.
 
 # Acknowledge
 
