@@ -1,3 +1,4 @@
+# This is the AAM-Softmax loss
 import torch, math
 import torch.nn as nn
 import torch.nn.functional as F
