@@ -1,6 +1,5 @@
 '''
-Some utilized functions
-These functions are all copied from voxceleb_trainer and TorchSSL:
+These utilized functions are all copied from voxceleb_trainer and TorchSSL:
   1. https://github.com/clovaai/voxceleb_trainer/blob/master/tuneThreshold.py
   2. https://github.com/TorchSSL/TorchSSL
 '''
