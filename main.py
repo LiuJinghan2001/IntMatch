@@ -1,3 +1,4 @@
+# This is the main file of this project
 import argparse, glob, warnings, sys, random
 from tools import *
 from dataLoader import train_loader
